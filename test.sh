@@ -1,2 +1,3 @@
-fno=3
-sno=5
+fno=7
+sno=8
+echo $fno
